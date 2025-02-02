@@ -1,3 +1,7 @@
+# Expense Tracker
+
+This is a basic expense tracker that uses NextJs, Postgres and Drizzle ORM to track your expenses. Check out the live version of the app. https://expense-tracker-sand-phi.vercel.app/. 
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qxZTySxn)
 # Instructions
 
